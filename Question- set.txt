@@ -1,0 +1,9 @@
+1. Set the background color red of the following elements using jQuery.
+
+2.Using jQuery add a new class to an element that already has a class.
+
+3.Using jQuery change the color of any div that is animated.
+
+4.Finds all inputs that don't have the name 'color' and appends text to the span next to it.
+
+5.Display a message when the focus is removed from an element.
